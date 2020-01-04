@@ -2,6 +2,10 @@
 Example project with NodeJS
 
 # Running the project
+git clone https://github.com/ojaoferreira/nodejs-hello-world.git
+
+cd nodejs-hello-world
+
 npm install
 
 node app.js
