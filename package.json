@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Application basic web hello world",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "web",
+    "hello-world"
+  ],
+  "author": "João Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
